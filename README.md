@@ -67,9 +67,15 @@ I love collaborating with teams to build impactful solutions. Whether developing
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandanmol1010&show_icons=true&theme=radical" alt="Anmol's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanmol1010&theme=radical" alt="Anmol's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandanmol1010&layout=compact&theme=radical" alt="Anmol's Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=anandanmol1010&show_icons=true&theme=radical" alt="Anmol's GitHub stats" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=anandanmol1010&theme=radical" alt="Anmol's GitHub streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=anandanmol1010&layout=compact&theme=radical" alt="Anmol's Top Languages" />
+  </a>
 </p>
 
 ---
