@@ -78,6 +78,10 @@ I love collaborating with teams to build impactful solutions. Whether developing
   </a>
 </p>
 
+> ⚠️ If my GitHub stats or top languages are not visible, it's likely due to API rate limits or service downtime. Please check back later!
+
+![Profile Views](https://komarev.com/ghpvc/?username=anandanmol1010&style=flat-square)
+
 ---
 
 ## 📫 Connect with Me
